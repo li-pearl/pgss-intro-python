@@ -1,4 +1,4 @@
-# Optional PGSS Evening Intro to Python Lessons
+# Optional PGSS 2024 Evening Intro to Python Lessons
 
 By Anshi Paul & TAs Ogechi and Trinity
 
